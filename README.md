@@ -2,11 +2,11 @@
 
 A browser Tic Tac Toe game — [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe) JavaScript course project. Vanilla JS, no frameworks, no build step.
 
-**Live:** _(added once GitHub Pages is enabled)_
+**Live:** https://alfamin.github.io/tic-tac-toe/
 
 ## Run it locally
 
-Clone the repo and open `main.html` in a browser. That's it — no install, no server.
+Clone the repo and open `index.html` in a browser. That's it — no install, no server.
 
 ## How it's built
 
